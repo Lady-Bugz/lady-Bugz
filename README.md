@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHZNY3VzC6r8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675198802832?e=2147483647&v=beta&t=iZCS-aiYH8-xAfjWiSJMnJosA-E6-OcoswNEN5nrXxk)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHZNY3VzC6r8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675198802832?e=2147483647&v=beta&t=iZCS-aiYH8-xAfjWiSJMnJosA-E6-OcoswNEN5nrXxk)
 <h1 align="center">Hi 👋, I'm Judith</h1>
 <h3 align="center">A dedicated Software Test Analyst and Quality Assurance Expert.</h3>
 <img align="right" alt="Coding" width="400" src="https://lh7-us.googleusercontent.com/S5GkjQW8N-As4V1C59KUJLgwOlRdWWEqPQyHeZMrkWAz7nvvunhoMxoL6juT9849kYxqZHzWxw0PxK-RmsL6wthbm7Ox4eM7StKk4WrZSD0lVfYwmrCI-Qmo8yzvlDT0OD0h6f2ukdq4nmrlneo6h7I">
