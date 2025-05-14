@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHZNY3VzC6r8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675198802832?e=2147483647&v=beta&t=iZCS-aiYH8-xAfjWiSJMnJosA-E6-OcoswNEN5nrXxk)
+![MasterHead](https://t3.ftcdn.net/jpg/01/36/51/44/360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
 <h1 align="center">Hi 👋, I'm Judith</h1>
 <h3 align="center">A dedicated Software Test Analyst and Quality Assurance Expert.</h3>
 <img align="right" alt="Coding" width="400" src="https://qawerk.com/wp-content/uploads/2021/05/cover-3-1024x576.png">
