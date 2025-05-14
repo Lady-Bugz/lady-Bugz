@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lady-bugz&label=Profile%20views&color=0e75b6&style=flat" alt="lady-bugz" /> </p>
 
-- 🔭 I’m currently working on **A dynamic project, where I'm focused on enhancing processes and ensuring quality at every stage of development.**
+-  I’m currently working on **A dynamic project, where I'm focused on enhancing processes and ensuring quality at every stage of development.**
 
-- 🌱 I’m currently learning **Machine Learning for Test Automation**
+-  I’m currently learning **Machine Learning for Test Automation**
 
 - 💬 Ask me about **Quality Assurance**
 
