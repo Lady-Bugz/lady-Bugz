@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQHZNY3VzC6r8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675198802832?e=2147483647&v=beta&t=iZCS-aiYH8-xAfjWiSJMnJosA-E6-OcoswNEN5nrXxk)
 <h1 align="center">Hi 👋, I'm Judith</h1>
 <h3 align="center">A dedicated Software Test Analyst and Quality Assurance Expert.</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/v2/D4D12AQFqYz4Ju8pIZQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674316607845?e=1752105600&v=beta&t=hG0oHNTFaHwJaBIJVv1ktWhu60-zZCsZlOwbzof-kDU](https://www.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_174990881.htm#from_element=cross_selling__vector)">
+<img align="right" alt="Coding" width="400" src="[[https://media.licdn.com/dms/image/v2/D4D12AQFqYz4Ju8pIZQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674316607845?e=1752105600&v=beta&t=hG0oHNTFaHwJaBIJVv1ktWhu60-zZCsZlOwbzof-kDU](https://www.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_174990881.htm#from_element=cross_selling__vector)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyreNiz2LMGifE9vf1z-9ApYXLfl1j6-WeRLje2u_f7UaXsJXJ)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lady-bugz&label=Profile%20views&color=0e75b6&style=flat" alt="lady-bugz" /> </p>
 
