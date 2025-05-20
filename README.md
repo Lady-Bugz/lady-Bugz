@@ -1,13 +1,11 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/01/36/51/44/360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
 <h1 align="center">Hi 👋, I'm Judith</h1>
-<h3 align="center">A dedicated Software Test Analyst and Quality Assurance Expert.</h3>
+<h3 align="center"> A passionate Software Test Analyst and Quality Assurance expert with a strong focus on ensuring product quality at every stage of development. I specialise in creating and executing effective test plans, automating test processes, and collaborating with development teams to deliver high-quality software solutions..</h3>
 <img align="right" alt="Coding" width="400" src="https://qawerk.com/wp-content/uploads/2021/05/cover-3-1024x576.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lady-bugz&label=Profile%20views&color=0e75b6&style=flat" alt="lady-bugz" /> </p>
 
--  I’m currently working on **A dynamic project, where I'm focused on enhancing processes and ensuring quality at every stage of development.**
-
--  I’m currently learning **Machine Learning for Test Automation**
+-  I am currently working on a dynamic project aimed at improving testing processes and integrating quality assurance practices throughout the software development lifecycle. Additionally, I am expanding my expertise by learning Generative AI techniques for test automation to develop intelligent and efficient testing solutions.**
 
 - 💬 Ask me about **Quality Assurance**
 
